@@ -6,7 +6,7 @@ params:
     enabled: true
     title: "hai!" 
     subtitle: "selamat menjelajah :D"
-    imageUrl: "https://github.com/dinanabila/goa-grafik/blob/main/icons8-cave-100.png?raw=true" 
+    imageUrl: "https://github.com/dinanabila/goa-grafik/blob/main/static/image/icons8-cave-100.png?raw=true"
     imageTitle: "" 
     imageWidth: 120 # custom size
     imageHeight: 120 # custom size
