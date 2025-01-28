@@ -6,7 +6,7 @@ params:
     enabled: true
     title: "hai!" 
     subtitle: "selamat menjelajah :D"
-    imageUrl: "D:\a2\static\image\icons8-cave-100.png" 
+    imageUrl: "https://github.com/dinanabila/urban-memory/blob/f660bd62ac46f184da2bd8a92960b10ce9db9589/static/image/icons8-cave-100.png" 
     imageTitle: "ikon" 
     imageWidth: 120 # custom size
     imageHeight: 120 # custom size
