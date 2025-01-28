@@ -6,7 +6,7 @@ params:
     enabled: true
     title: "hai!" 
     subtitle: "selamat menjelajah :D"
-    imageUrl: "static/image/icons8-cave-100.png" 
+    imageUrl: "/static/image/icons8-cave-100.png" 
     imageTitle: "ikon" 
     imageWidth: 120 # custom size
     imageHeight: 120 # custom size
