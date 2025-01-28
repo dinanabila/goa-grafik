@@ -1,19 +1,21 @@
-title: Urban Memory
+title: urban memory
 theme: ["PaperMod"]
 
 params:
   profileMode:
     enabled: true
-    title: "urban memory" # optional default will be site title
-    subtitle: "welcome to memory"
-    imageUrl: "<image link>" # optional
-    imageTitle: "<title of image as alt>" # optional
+    title: "hai!" 
+    subtitle: "selamat menjelajah :D"
+    imageUrl: "static/image/icons8-cave-100.png" 
+    imageTitle: "ikon" 
     imageWidth: 120 # custom size
     imageHeight: 120 # custom size
     buttons:
-      - name: Archive
+      - name: Arsip
         url: ""
       - name: Tags
+        url: ""
+      - name: Panduan
         url: ""
 
   socialIcons: 
