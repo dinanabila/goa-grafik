@@ -5,7 +5,11 @@ params:
   profileMode:
     enabled: true
     title: "hai!" 
-    subtitle: "selamat menjelajah :D"
+    subtitle: > 
+      selamat menjelajah
+
+
+      janlup siapin 🍪 + ☕ favoritmu
     imageUrl: "https://github.com/dinanabila/goa-grafik/blob/main/static/image/icons8-cave-100.png?raw=true"
     imageTitle: "" 
     imageWidth: 120 # custom size
@@ -15,11 +19,11 @@ params:
         url: ""
       - name: Tags
         url: ""
-      - name: Panduan
-        url: ""
+      # - name: Panduan
+      #   url: ""
 
-  socialIcons: 
-    - name: "github"
-      url: "https://github.com/dinanabila"
-    - name: "linkedin"
-      url: "https://www.linkedin.com/in/dinanabila/"
+  # socialIcons: 
+  #   - name: "github"
+  #     url: "https://github.com/dinanabila"
+  #   - name: "linkedin"
+  #     url: "https://www.linkedin.com/in/dinanabila/"
