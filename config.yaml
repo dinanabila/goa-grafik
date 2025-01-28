@@ -6,7 +6,7 @@ params:
     enabled: true
     title: "hai!" 
     subtitle: "selamat menjelajah :D"
-    imageUrl: ["icons8-cave-100.png"] 
+    imageUrl: "goa-grafik/icons8-cave-100.png" 
     imageTitle: "" 
     imageWidth: 120 # custom size
     imageHeight: 120 # custom size
